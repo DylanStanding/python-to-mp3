@@ -24,11 +24,11 @@ except ImportError:
 class FileConverterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("File Converter")
+        self.root.title("MesaTech™")
 
         # Set the window size and position it in the center of the screen
-        window_width = 400
-        window_height = 200
+        window_width = 250
+        window_height = 100
         screen_width = root.winfo_screenwidth()
         screen_height = root.winfo_screenheight()
         x_position = (screen_width - window_width) // 2
