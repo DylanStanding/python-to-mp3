@@ -13,11 +13,7 @@ Features
 
 Prerequisites
 
-Ensure you have Python installed on your system. You can install the required dependencies using the following:
-
-bash
-
-pip install pydub moviepy
+Ensure you have Python installed on your system. You can install the required dependencies on first time startup:
 
 Usage
 
